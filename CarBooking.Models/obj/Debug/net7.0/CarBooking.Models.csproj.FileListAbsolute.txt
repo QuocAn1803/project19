@@ -1,0 +1,12 @@
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\bin\Debug\net7.0\CarBooking.Models.deps.json
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\bin\Debug\net7.0\CarBooking.Models.dll
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\bin\Debug\net7.0\CarBooking.Models.pdb
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.csproj.AssemblyReference.cache
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.GeneratedMSBuildEditorConfig.editorconfig
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.AssemblyInfoInputs.cache
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.AssemblyInfo.cs
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.csproj.CoreCompileInputs.cache
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.dll
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\refint\CarBooking.Models.dll
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\CarBooking.Models.pdb
+d:\Downloads\CarBookingWeb (1)\CarBookingWeb (1)\CarBookingWeb\CarBooking.Models\obj\Debug\net7.0\ref\CarBooking.Models.dll
