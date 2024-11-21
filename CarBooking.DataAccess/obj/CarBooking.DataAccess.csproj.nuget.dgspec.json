@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj": {}
+    "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj": {
+    "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj",
+        "projectUniqueName": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj",
         "projectName": "CarBooking.DataAccess",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\obj\\",
+        "projectPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\CarBooking.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,17 +22,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj"
+              "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj": {
+                "projectPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj"
               },
-              "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj": {
-                "projectPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj"
+              "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj": {
+                "projectPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj"
               }
             }
           }
@@ -90,40 +91,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj": {
+    "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj",
+        "projectUniqueName": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj",
         "projectName": "CarBooking.Models",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\obj\\",
+        "projectPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\CarBooking.Models.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -131,6 +118,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -178,40 +166,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj": {
+    "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj",
+        "projectUniqueName": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj",
         "projectName": "CarBooking.Utility",
-        "projectPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\Downloads\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\obj\\",
+        "projectPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\CarBooking.Utility.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "d:\\Downloads\\CarBookingWeb (1)\\CarBookingWeb (1)\\CarBookingWeb\\CarBooking.Utility\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -219,6 +193,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -262,26 +237,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[7.0.16, 7.0.16]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

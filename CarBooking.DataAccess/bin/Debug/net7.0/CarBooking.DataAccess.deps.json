@@ -975,7 +975,10 @@
           "Microsoft.Extensions.Identity.Stores": "7.0.7"
         },
         "runtime": {
-          "CarBooking.Models.dll": {}
+          "CarBooking.Models.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "CarBooking.Utility/1.0.0": {
@@ -984,7 +987,10 @@
           "Microsoft.AspNetCore.Identity.UI": "7.0.7"
         },
         "runtime": {
-          "CarBooking.Utility.dll": {}
+          "CarBooking.Utility.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
